@@ -1,2 +1,2 @@
-FROM venkys3/webapp
+FROM hshar/webapp
 ADD ./web /var/www/html/web
